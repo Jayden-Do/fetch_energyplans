@@ -1,0 +1,84 @@
+# retailer_ids = ['alinta', 'momentum', 'origin', 'real-utilities', 'ovo-energy', 'simply-energy', 'pacific-blue', 'arcline', 'ergon', 'aurora', 'energyaustralia', 'globird', 'energy-locals', 'lumo', 'agl', 'covau', 'future-x', 'red-energy', 'powershop', 'diamond', 'blue-nrg', 'reamped', 'ampol', 'kogan', 'tango', 'circular', 'amber', 'tas-gas', '1st-energy', 'arcstream', 'next-business', 'dodo']
+# retailer_names = ['Red Energy', 'AGL', 'Momentum Energy', 'Tango Energy', 'Simply Energy', 'EnergyAustralia', 'Lumo Energy', 'Diamond Energy', 'Alinta Energy', 'CovaU', 'Next Business Energy', 'Dodo Power and Gas', 'Nectr', 'Powershop', 'Origin', 'Kogan Energy', 'ActewAGL']
+
+retailer_ids = """
+1st-energy
+actewagl
+"""
+# active-utilities
+# agl
+# alinta
+# altogether
+# amber
+# ampol
+# arc-energy
+# arcline
+# arcstream
+# aurora
+# besy
+# blue-nrg
+# brighte
+# circular
+# cleanco
+# cleanpeak
+# coles
+# commander
+# covau
+# cpe-mascot
+# diamond
+# discover
+# dodo
+# ea-connect
+# electricity-in-a-box
+# energyaustralia
+# energy-locals
+# ergon
+# erm-power
+# evergy
+# flow-power
+# flow-systems
+# future-x
+# gee-energy
+# globird
+# glow-power
+# humenergy
+# igeno
+# kogan
+# locality-planning
+# localvolts
+# lumo
+# macquarie
+# metered-energy
+# microgrid
+# momentum
+# nectr
+# next-business
+# on-by-energyaustralia
+# origin
+# ovo-energy
+# pacific-blue
+# people-energy
+# powerdirect
+# powerhub
+# powershop
+# powow
+# radian
+# real-utilities
+# reamped
+# red-energy
+# sanctuary
+# seene
+# shell-energy
+# simply-energy
+# smart-energy
+# smartestenergy
+# sonnen
+# stanwell
+# sumo-gas
+# sumo-power
+# tango
+# tas-gas
+# telstra-energy
+# winconnect
+# yes-energy
+# zen-energy
